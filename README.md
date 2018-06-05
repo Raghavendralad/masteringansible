@@ -3,3 +3,5 @@
 Repository for course content for Packt Mastering Ansible Course
 
 Please report any problems as issues within this repository.
+
+Follow us on www.trainingbangalore.co.in
